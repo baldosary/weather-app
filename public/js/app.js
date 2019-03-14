@@ -10,7 +10,7 @@
     event.preventDefault();
 
     //Clear the text content:
-    mess1.textContent = '';
+    mess1.textContent = 'Loading...';
     mess2.textContent = '';
     
     //get the search input:
